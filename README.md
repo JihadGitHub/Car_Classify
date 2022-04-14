@@ -1,5 +1,8 @@
 # Introduction
-This article is about the categorisation of cars according to vehicle regulations or market segments. For types of body styles (e.g. sedan, coupe, hatchback), see Car body style.
-Governments and private organizations have developed car classification schemes that are used for various purposes including regulation, description, and categorization of cars.
+This article discusses the classification of automobiles based on vehicle laws or market segments. See Car body style for information on different body styles (such as sedan, coupe, and hatchback).
+Car classification schemes have been devised by governments and commercial organizations for a variety of goals, including regulation, description, and categorization of automobiles.
 
-The International Standard ISO 3833-1977 Road vehicles – Types – Terms and definitions also defines terms for classifying cars.
+
+ISO 3833-1977 is an international standard. Road vehicles – Types – Words and Definitions also defines terms used to categorize automobiles.
+
+#Working of Claasifying
